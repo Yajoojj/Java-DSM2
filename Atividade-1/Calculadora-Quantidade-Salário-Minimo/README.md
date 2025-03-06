@@ -28,10 +28,11 @@ quantidadeSalarios = salarioFuncionario / salarioMinimo
 
 ## 📌 Exemplo de Uso
 
-Digite o valor do salário mínimo (em reais): 1412 Digite o valor do salário do funcionário (em reais): 4236
-
+```
+Digite o valor do salário mínimo (em reais): 1412
+Digite o valor do salário do funcionário (em reais): 4236
 O funcionário recebe 3.0 salários mínimos.
-
+```
 
 ## 🛠 Tecnologias Utilizadas
 
