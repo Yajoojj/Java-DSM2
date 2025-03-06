@@ -19,16 +19,18 @@ novoSalario = salario + (salario * percentual) / 100
 
 1. Certifique-se de ter o [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) instalado
 2. Compile o programa com:
-```bash
+bash
 javac Main.java
 3. Execute com:
 java Main
 
 ## 📌 Exemplo de Uso
 
+```
 Digite o salário atual: 2500.00
 Digite o percentual de reajuste: 10
 O novo salário é: R$ 2750.00
+```
 
 ## 🛠 Tecnologias Utilizadas
 
