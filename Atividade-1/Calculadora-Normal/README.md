@@ -33,7 +33,8 @@ javac Main.java
 
 ## 📌 Exemplo de Uso
 ```
-Digite o valor de n1: 10 Digite o valor de n2: 5
+Digite o valor de n1: 10
+Digite o valor de n2: 5
 O resultado da Soma deu: 15.0 
 O resultado da multiplicação deu: 50.0 
 O resultado da divisão deu: 2.0 
