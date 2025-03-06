@@ -11,3 +11,5 @@ Este projeto é um programa simples em Java que calcula quantos dias uma pessoa 
 ## 📜 Fórmula Utilizada
 
 O cálculo da idade em dias segue a seguinte fórmula:
+
+resultado = idade * 365
