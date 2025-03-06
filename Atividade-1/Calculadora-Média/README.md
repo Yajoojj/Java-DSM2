@@ -27,10 +27,16 @@ javac Main.java
 
 ## 📌 Exemplo de Uso
 
-Digite a primeira nota: 8.0 Digite a segunda nota: 7.5 Digite a terceira nota: 9.0 Digite a quarta nota: 6.0 Digite a quinta nota: 5.5 Digite a sexta nota: 7.0
+```
+Digite a primeira nota: 8.0
+Digite a segunda nota: 7.5
+Digite a terceira nota: 9.0
+Digite a quarta nota: 6.0
+Digite a quinta nota: 5.5
+Digite a sexta nota: 7.0
 
 O resultado da média das primeiras 3 notas é: 8.17 O resultado da média das 3 últimas notas é: 6.17
-
+```
 
 ## 🛠 Tecnologias Utilizadas
 
