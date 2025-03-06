@@ -19,11 +19,11 @@ Este projeto é um programa em Java que calcula quantos dias uma pessoa já vive
    java Main
 
 ## 📌 Exemplo de Uso
-
+```
 Bem vindo(a) a Calculadora de Idade em dias
 Digite sua idade: 30
 Você viveu por: 10950 dias
-
+```
 
 ## 🛠 Tecnologias Utilizadas
 
